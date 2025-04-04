@@ -1,1 +1,3 @@
 # codeninja40_com
+write a program to find the second largest number in the array =
+solution is here......
